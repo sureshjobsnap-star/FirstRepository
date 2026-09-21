@@ -1,1 +1,2 @@
 Hello welcome Git Pratice
+In the next class we are going to update date in github
